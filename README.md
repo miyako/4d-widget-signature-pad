@@ -29,6 +29,6 @@ $event:=SIGPAD_FORM_EVENT (OBJECT Get name(Object current))
 
 The default type for numbers should be "real", to let dynamic variables be real (for opacity values in particular).
 
-##" Page Number
+### Page Number
 
 The form can have multiple pages, but the widget should be placed on page 0 or 1.
